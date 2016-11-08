@@ -37,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Mechanical Engineering 
 - Grade B
 
-#### The Norwegian Univsersity of Science and Technology (August 2004 to June 2008)
+#### Oslo University College (August 2004 to June 2008)
 
 - Mechanical Engineering 
 - Grade B
