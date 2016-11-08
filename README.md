@@ -1,4 +1,4 @@
-## Your Name
+## Christopher Sanchez (TBC...)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,26 +23,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2016 to December 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Javascript
+- Rspec, Jasmine,
 
-#### Your University / College (start_date to end_date)
+#### The Norwegian Univsersity of Science and Technology (August 2011 to June 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mechanical Engineering 
+- Grade B
 
-#### Any other qualifications
+#### The Norwegian Univsersity of Science and Technology (August 2004 to June 2008)
+
+- Mechanical Engineering 
+- Grade B
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**DNVGL AS** (October 2008 to April 2016)    
+*Fleet Responsible/Senior Engineer*  
+
+**The Norwegian Red Cross** (February 2016 > )    
+*Homework Assistant - Volunteer*  
