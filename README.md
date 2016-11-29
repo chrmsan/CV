@@ -4,9 +4,6 @@
 I thrive when I use my skills and abilities to provide valuable solutions that will be of great use for many. 
 
 
-
-My efforts shall be of joy, use and help for other people
-
 ##Projects
 
 *TBC
