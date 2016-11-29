@@ -9,7 +9,7 @@
 
 ## Technical Training
 
-	**Makers Academy** (http://makersacademy.com) (September 2016 – December 2016)
+	Makers Academy (http://makersacademy.com) (September 2016 – December 2016)
 - Best practices in Test Driven Development:
   - RSpec, Capybara, Jasmine.
 - OOP, SOLID design principles.
