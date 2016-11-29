@@ -1,7 +1,11 @@
 # Christopher Sanchez
 [Projects](#projects) | [Technical Training](#technical-training) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies and Interests](#hobbies-and-interests) | [Additional Skills](#additional-skills) | [LinkedIn](https://no.linkedin.com/in/chrsan) | 
 
-whoami
+I thrive when I use my skills and abilities to provide valuable solutions that will be of great use for many. 
+
+
+
+My efforts shall be of joy, use and help for other people
 
 ##Projects
 
@@ -58,6 +62,6 @@ whoami
 - **Ukulele** I enjoy to play the ukulele in my sparetime and occasionally sing as well
 - **Cooking** I love cooking and try out new recipes - and do admit that I can't have enough kitchen gadgets!
 - **Dancing Salsa/Bachata** I attend salsa and bachata courses 2-3 times a week and I often attend at social dances
-- **Cycling** I have cyclocross (a hybrid routing/offroad bicycle) that I use to cruise around the Norwegian Wilderness
+- **Cycling** I have a cyclocross (a hybrid routing/offroad bicycle) that I use to cruise around the Norwegian wilderness
 - **Swimming** As part of my workout routine I swim once a week. Being fond of water since I was a child that is a must.
-- **Calisthenics** I recently started to do outdoor calisthenics in Oslo and my goal is to do the infamous Flag!
+- **Calisthenics** I recently started to do outdoor calisthenics in Oslo and my end goal is to do the infamous Flag!
