@@ -1,38 +1,33 @@
-## Christopher Sanchez (TBC...)
+# Christopher Sanchez
+[Projects](#projects) | [Technical Training](#technical-training) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://no.linkedin.com/in/chrsan) | 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
 
-#### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+##Projects
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+## Technical Training
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+	**Makers Academy** (http://makersacademy.com) (September 2016 – December 2016)
+- Best practices in Test Driven Development:
+  - RSpec, Capybara, Jasmine.
+- OOP, SOLID design principles.
+- Version control (Git/Github)
+- Delivering MVPs with an incremental approach to feature addition.
+- Relational Databases, ORMs and User Management:
+  - PSQL, DataMapper and ActiveRecord.
+- Languages: Ruby, Javascript, HTML, CSS.
+- Frameworks: Sinatra, Rails, Bootstrap.
+- Agile practices, especially pair programming.
 
 ## Education
 
-#### Makers Academy (September 2016 to December 2016)
+#### Makers Academy (September 2016 – December 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC
-- Software Craftsmanship
-- Ruby, Javascript
-- Rspec, Jasmine,
+- 16 Week Web Development Bootcamp
 
-#### The Norwegian Univsersity of Science and Technology (August 2011 to June 2013)
+#### The Norwegian University of Science and Technology (August 2011 to June 2013)
 
 - Mechanical Engineering 
 - Grade B
@@ -43,10 +38,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade B
 
 
-## Experience
+## Work Experience
 
-**DNVGL AS** (October 2008 to April 2016)    
+**DNVGL AS** (https://www.dnvgl.com/) (October 2008 to April 2016)    
 *Fleet Responsible/Senior Engineer*  
 
-**The Norwegian Red Cross** (February 2016 > )    
+**The Norwegian Red Cross** (http://www.digitalleksehjelp.no/) (February 2016 > )    
 *Homework Assistant - Volunteer*  
+
+## Hobbies and Interests
