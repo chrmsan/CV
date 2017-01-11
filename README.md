@@ -1,6 +1,8 @@
 # Christopher Sanchez
 [Projects](#projects) | [Technical Training](#technical-training) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies and Interests](#hobbies-and-interests) | [Additional Skills](#additional-skills) | [LinkedIn](https://no.linkedin.com/in/chrsan) | 
 
+A former mechanical engineer within Offshore Classification (Oil & Gas), with a passion technology and entrepreneurship
+
 I thrive when I use my skills and abilities to provide valuable solutions that will be of great use for many. 
 
 
