@@ -9,7 +9,7 @@ A former mechanical engineer within Offshore Classification (Oil & Gas), with a 
 Project | Description | Technologies | Testing
 ------------- | ----------- | ------------ | -------
 [Street Party](https://github.com/chrmsan/street-party) | An application tool that helps in organising street parties - Makers Academy Final Project | JavaScript, Meteor, MongoDB, HTML, CSS | Chimp, Mocha
-[Boom Training Web App](https://github.com/chrmsan/boom_training_webapp) | An application that helps to organise training sessions for groups of people - Makers Academy Week 9 project | Ruby, Sinatra, HTML, CSS, | Rspec, Capybara 
+[Boom Training Web App](https://github.com/chrmsan/boom_training_webapp) | An application that helps to organise training sessions for groups of people - Makers Academy Week 9 project | Ruby, Rails, HTML, CSS, | Rspec, Capybara 
 [Haunted BnB](https://github.com/chrmsan/makersbnb) | An AirBnB-clone (we don't serve breakfast) - Makers Academy Week 6 project | Ruby, Sinatra, HTML, CSS, | RSpec, Capybara 
 ## Technical Training
 
